@@ -1,7 +1,6 @@
 # Group-Project-2
 
-Ironhack Logo
-Creating Database in MYSQL! WOW
+Creating Database in MYSQL!
 
 Content
 

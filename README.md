@@ -2,7 +2,7 @@
 
 Creating Database in MYSQL!
 
-Content
+Link to JIRA https://ironhack.atlassian.net/jira/software/projects/IDPDG/boards/11
 
 Project Description
 [Database](#Create Database)
